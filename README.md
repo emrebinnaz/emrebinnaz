@@ -12,10 +12,6 @@
 <br />
 
 
-![](https://visitor-badge.laobi.icu/badge?page_id=emrebinnaz.emrebinnaz)
-
-[![Github](https://img.shields.io/github/followers/emrebinnaz?label=Follow&style=social)](https://github.com/emrebinnaz)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrebinnaz&theme=tokyonight)
 
 <!--
