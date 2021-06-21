@@ -12,7 +12,7 @@
 <br />
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrebinnaz&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrebinnaz&count-private=true&theme=tokyonight)
 
 <!--
 **emrebinnaz/emrebinnaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
